@@ -23,8 +23,8 @@ class Solution:
                 return i
         return -1
 
-haystack = 'vinay'
-needle = 'na'
+haystack = 'BadProgrammer'
+needle = 'gram'
 print (Solution.strStr(haystack, needle))
 
 
